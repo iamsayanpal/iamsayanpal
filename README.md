@@ -2,7 +2,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.sanishtech.com/u/da055c6e0d18d4730e37582ab77305e6.jpeg" alt="WhatsApp Image 2026-01-10 at 12.50.12" width="500" height="800" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/c80eca2eb04e6d7bf30f186561084cbd.webp" alt="1000508552" width="1584" height="396" loading="lazy" style="max-width:100%;height:auto;">
   <h1>Sayan Pal</h1>
   <p>👋 Welcome to my GitHub Profile!</p>
 </div>
@@ -10,8 +10,6 @@
 
 # 💫 Hi 👋, I'm Sayan Pal
 **A passionate || DevOps Engineer || Admin from India**
-
-Email Me 👉 ✉️ **sayanpal6368@gmail.com** For Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** javaScript
 - 📫 **How to reach me:** sayanpal6368@gmail.com

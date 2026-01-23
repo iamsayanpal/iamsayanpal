@@ -2,7 +2,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.sanishtech.com/u/c80eca2eb04e6d7bf30f186561084cbd.webp" alt="1000508552" width="1584" height="396" loading="lazy" style="max-width:100%;height:auto;">
+  <img src="https://img.sanishtech.com/u/7f7042ffc1b140a4cf665c2f09c65227.png" alt="1000508552" width="1584" height="396" loading="lazy" style="max-width:100%;height:auto;">
   <h1>Sayan Pal</h1>
   <p>👋 Welcome to my GitHub Profile!</p>
 </div>
